@@ -21,6 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/yash_madke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashmadke" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/yash-madke-b31251252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashmadke" height="30" width="40" /></a>
+ <a href="https://instagram.com/_yash.madke_?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yashmadke" height="30" width="40" /></a>
 </p>
 
 <br>
