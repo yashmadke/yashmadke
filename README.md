@@ -43,9 +43,3 @@
 
 <hr>
 <br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashmadke&show_icons=true&locale=en&theme=dracula&hide_border=true" alt="yashmadke"></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashmadke&theme=dracula&hide_border=true" alt="yashmadke"></p>
-
-[![Yash's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yashmadke&theme=dracula)](https://github.com/yashmadke/github-readme-activity-graph)
